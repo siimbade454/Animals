@@ -7,7 +7,7 @@
       "AnimalDiet": "Carnivore",
       "AverageLifeSpan": "10.0",
       "AnimalDangerousStatus": "Very Dangerous",
-      "AnimalImage": "",
+      "AnimalImage": "https://raw.githubusercontent.com/siimbade454/hicham1/main/lion.jpeg",
       "AnimalSite": "https://nationalzoo.si.edu/animals/lion"
     },
     {
