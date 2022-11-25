@@ -49,16 +49,6 @@
       "AnimalDangerousStatus": "Very Dangerous",
       "AnimalImage": "https://raw.githubusercontent.com/siimbade454/hicham1/main/lion.jpeg",
       "AnimaSite": "https://nationalzoo.si.edu/animals/lion"
-    },
-    {
-    "AnimalName": "Lion",
-      "AnimalDescription": "The lion is a large cat of the genus Panthera native to Africa and India. It has a muscular, broad-chested body, short, rounded head, round ears, and a hairy tuft at the end of its tail. It is sexually dimorphic; adult male lions are larger than females and have a prominent mane",
-      "AnimalSpeed": "25.0",
-      "AnimalDiet": "Carnivore",
-      "AverageLifeSpan": "10.0",
-      "AnimalDangerousStatus": "Very Dangerous",
-      "AnimalImage": "https://raw.githubusercontent.com/siimbade454/hicham1/main/lion.jpeg",
-      "AnimaSite": "https://nationalzoo.si.edu/animals/lion"
     }
   ]
 }
