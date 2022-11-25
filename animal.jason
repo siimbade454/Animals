@@ -1,34 +1,34 @@
 {
   "Animals": [
     {
-      "AnimalName": "krish",
-      "AnimalSescription": "Developer",
-      "AnimalSpeed": "Krish",
-      "AnimalDiet": "Lee",
-      "AverageLifeSpan": "E1",
-      "AnimalDangerousStatus": "CA",
-      "AnimalImage": "123456",
-      "AnimalSite": "krish.lee@learningcontainer.com"
+      "AnimalName": "Lion",
+      "AnimalDescription": "The lion is a large cat of the genus Panthera native to Africa and India. It has a muscular, broad-chested body, short, rounded head, round ears, and a hairy tuft at the end of its tail. It is sexually dimorphic; adult male lions are larger than females and have a prominent mane",
+      "AnimalSpeed": "25.0",
+      "AnimalDiet": "Carnivore",
+      "AverageLifeSpan": "10.0",
+      "AnimalDangerousStatus": "Very Dangerous",
+      "AnimalImage": "",
+      "AnimalSite": "https://nationalzoo.si.edu/animals/lion"
     },
     {
-      "userId": "devid",
-      "jobTitle": "Developer",
-      "firstName": "Devid",
-      "lastName": "Rome",
-      "employeeCode": "E2",
-      "region": "CA",
-      "phoneNumber": "1111111",
-      "emailAddress": "devid.rome@learningcontainer.com"
+      "": "devid",
+      "": "Developer",
+      "": "Devid",
+      "": "Rome",
+      "": "E2",
+      "": "CA",
+      "": "1111111",
+      "": "devid.rome@learningcontainer.com"
     },
     {
-      "userId": "tin",
-      "jobTitle": "Program Directory",
-      "firstName": "tin",
-      "lastName": "jonson",
-      "employeeCode": "E3",
-      "region": "CA",
-      "phoneNumber": "2222222",
-      "emailAddress": "tin.jonson@learningcontainer.com"
+      "": "tin",
+      "": "Program Directory",
+      "": "tin",
+      "": "jonson",
+      "": "E3",
+      "": "CA",
+      "": "2222222",
+      "": "tin.jonson@learningcontainer.com"
     }
   ]
 }
